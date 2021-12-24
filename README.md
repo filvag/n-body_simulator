@@ -18,10 +18,12 @@ Credits to the "Moving Planets Around - An Introduction to N-Body Simulations Ap
 
 ## How to use it
 _-i  <filename>_ The input file name (for bodies initial state)
+
 _-E_ Use the Euler integrator  
 _-R_ Use Runke Kutta Integration  
 _-A_ Use Adams Bashforth Integration  
-_-L_ Use Leapfrog Integration (default)  
+_-L_ Use Leapfrog Integration (default) 
+ 
 _-e_ plot Energy (default: False)  
 _-a_ plot Angular Momentum (default: False)  
 _-ecc_ plot Eccentricity for a body other than body "0" (default: False)  
