@@ -14,7 +14,7 @@ The csv files are examples of files that cab be used as an input for the studies
 
 The program plots the trajectories, as well as the system energy, angular momentum and eccentricity.
 
-Credits to the "Moving Planets Around - An Introduction to N-Body Simulations Applied to Exoplanetary Systems" by Javier Roa, Adrian S. Hamers, Maxwell X. Cai and Nathan W. C. Leigh from MIT Press (https://mitpress.mit.edu/books/moving-planets-around) which was the source for these integrators. 
+Credits to the "_Moving Planets Around - An Introduction to N-Body Simulations Applied to Exoplanetary Systems_" by Javier Roa, Adrian S. Hamers, Maxwell X. Cai and Nathan W. C. Leigh from MIT Press (https://mitpress.mit.edu/books/moving-planets-around) which was the source for these integrators. 
 
 ## How to use it
 _-i \<filename>_ The input file name (for bodies initial state)
