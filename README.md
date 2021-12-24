@@ -27,6 +27,7 @@ _-L_ Use Leapfrog Integration (default)
 _-e_ plot Energy (default: False)  
 _-a_ plot Angular Momentum (default: False)  
 _-ecc_ plot Eccentricity for a body other than body "0" (default: False)  
+
 _-d \<time step>_ The integration time step (in earth days)', default=1.0  
 _-t \<time>_ Termination time (earth years)', default=1)  
 _-g \<gravitational_constant>_ The Universal Gravitational constant (AU^3 * days-2 * solar_mass^-1)', default=0.00029591220828559  
