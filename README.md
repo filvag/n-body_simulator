@@ -18,7 +18,6 @@ Credits to the "Moving Planets Around - An Introduction to N-Body Simulations Ap
 
 ## How to use it
 _-i  <filename>_ The input file name (for bodies initial state)
-
 _-E_ Use the Euler integrator  
 _-R_ Use Runke Kutta Integration  
 _-A_ Use Adams Bashforth Integration  
