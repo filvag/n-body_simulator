@@ -17,7 +17,7 @@ The program plots the trajectories, as well as the system energy, angular moment
 Credits to the "Moving Planets Around - An Introduction to N-Body Simulations Applied to Exoplanetary Systems" by Javier Roa, Adrian S. Hamers, Maxwell X. Cai and Nathan W. C. Leigh from MIT Press (https://mitpress.mit.edu/books/moving-planets-around) which was the source for these integrators. 
 
 ## How to use it
-_-i_  <filename> The input file name (for bodies initial state)
+_-i_  \<filename> The input file name (for bodies initial state)
 
 _-E_ Use the Euler integrator  
 _-R_ Use Runke Kutta Integration  
